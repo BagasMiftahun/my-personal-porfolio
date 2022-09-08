@@ -8,8 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
 body {
-  font-family: "Inconsolata", monospace;
+  font-family: 'Poppins', monospace;
   color: #0d1e2d;
 }
 
@@ -29,7 +31,7 @@ h4,
 h5,
 h6,
 .font-heading {
-  font-family: "Raleway", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .section {
